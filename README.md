@@ -1,1 +1,1 @@
-# greenden_tailwind
+# greenden-tailwind
